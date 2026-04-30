@@ -63,7 +63,7 @@ Developed a system to support student attendance management during exams for adm
 * Implemented attendance tracking used by lecturers
 * Structured backend using Laravel MVC architecture
 * Designed database to handle relationships between students, exams, and supervisors
-* Supports real-world exam attendance workflow for lecturers and administrators[text](README.md)
+* Supports real-world exam attendance workflow for lecturers and administrators
 
 Repo: https://github.com/khanhan0603/ungdungdiemdanhsinhvienAWS_BE.git
 
