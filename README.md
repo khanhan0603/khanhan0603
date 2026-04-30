@@ -81,6 +81,7 @@ Built a demo system integrating a pre-trained CNN model to detect driver drowsin
 * Implemented CI pipeline using GitHub Actions for automated build and validation
 
 Backend: https://github.com/khanhan0603/nhan-dien-tai-xe-ngu-guc-BE
+
 Frontend: https://github.com/khanhan0603/nhan-dien-tai-xe-ngu-guc-FE
 
 ---
@@ -113,7 +114,7 @@ Repo: https://github.com/khanhan0603/webdatlichlamtoc_BE
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=khanhan0603&show_icons=true"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khanhan0603"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khanhan0603&exclude_repo=repo1,repo2"/>
 </p>
 
 ---
