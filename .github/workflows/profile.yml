@@ -9,7 +9,6 @@ jobs:
 update-readme:
 runs-on: ubuntu-latest
 
-```
 steps:
   - name: Checkout repo
     uses: actions/checkout@v3
@@ -27,4 +26,4 @@ steps:
     with:
       message: "chore: update snake animation"
       add: "dist/github-contribution-grid-snake.svg"
-```
+
