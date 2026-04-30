@@ -1,6 +1,7 @@
 <h1 align="center">
-  <img src="https://raw.githubusercontent.com/martonlederer/martonlederer/master/name.svg" alt="KHANH AN" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=45&color=FF69B4&center=true&vCenter=true&width=600&lines=Hey,+I'm+Khanh+An&pause=1000&repeat=true"/>
 </h1>
+
 <h3 align="center">Backend Developer | Java (Spring Boot) • PHP (Laravel)</h3>
 
 ---
