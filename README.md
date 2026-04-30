@@ -51,7 +51,7 @@ Built a backend system to manage products and handle order processing for an onl
 * Designed relational database to support core business logic
 * Implemented CI pipeline using GitHub Actions for automated build and validation
 
-Repo: https://github.com/khanhan0603/tla-jew-website/tree/main/BE
+Repo: https://github.com/khanhan0603/tla-jew-website-BE.git
 
 ---
 
@@ -66,7 +66,7 @@ Developed a system to support student attendance management during exams for adm
 * Designed database to handle relationships between students, exams, and supervisors
 * Supports real-world exam attendance workflow for lecturers and administrators[text](README.md)
 
-Repo: https://github.com/khanhan0603/ungdungdiemdanhsinhvienAWS/tree/main/BE
+Repo: https://github.com/khanhan0603/ungdungdiemdanhsinhvienAWS_BE.git
 
 ---
 
