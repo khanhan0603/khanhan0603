@@ -1,10 +1,6 @@
 <h1 align="center">Hi, I'm Khanh An</h1>
 <h3 align="center">Backend Developer | Java (Spring Boot) • PHP (Laravel)</h3>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&lines=Backend+Engineer;Spring+Boot+Developer;System+Builder;Always+Learning"/>
-</p>
-
 ---
 
 ## About Me
