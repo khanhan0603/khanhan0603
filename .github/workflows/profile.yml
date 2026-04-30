@@ -1,17 +1,18 @@
 name: Update Profile README
 
 on:
-  push:
-    branches: [ "main" ]
-  workflow_dispatch:
+push:
+branches: [ "main" ]
+workflow_dispatch:
 
 jobs:
 update-readme:
 runs-on: ubuntu-latest
 
+
 steps:
   - name: Checkout repo
-    uses: actions/checkout@v3
+    uses: actions/checkout@v4
 
   # Generate snake animation
   - name: Generate snake
