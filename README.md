@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=45&color=FF69B4&center=true&vCenter=true&width=600&lines=Hey,+I'm+Khanh+An&pause=1000&repeat=true"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=50&duration=2000&pause=1000&color=FF69B4&center=true&vCenter=true&width=600&height=100&lines=Khanh+An"/>
 </h1>
 
 <h3 align="center">Backend Developer | Java (Spring Boot) • PHP (Laravel)</h3>
